@@ -29,6 +29,9 @@ The complete design is developed using Verilog HDL and verified using SystemVeri
 5. Memory Slave 1
 6. Interconnect Top Module
 
+   <img width="1084" height="952" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/6772d710-9cc5-45c3-8119-a29b110d7820" />
+
+
 ## Design Features
 
 ### Arbitration
